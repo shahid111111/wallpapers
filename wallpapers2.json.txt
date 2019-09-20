@@ -1,0 +1,82 @@
+{
+  "Collections":[
+	{
+		"name": "mountains",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/a3OwknPcIq8_Full.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/2.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "beach",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/fM0ZBklturE_Full.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/3.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "headphone",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/icons8-team-7LNatQYMzm4-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/1.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "headphone2",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/malte-wingen-PDX_a_82obo-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/4.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "paris",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/paris.png",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/5.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "flower",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/pawel-czerwinski-Gmxbaiph-YE-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/6.png",
+		
+		"downloadable": true,
+		"size": 300000,
+		"dimensions": "1280 x 720"
+		
+	},
+	{
+		"name": "paints",
+		"author": "unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Qiy4hr18aGs_Full.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/7.png",
+		
+		"downloadable": true,
+		"size": 300000 ,
+		"dimensions": "1280 x 720"
+		
+	}
+	
+       ]
+      }
