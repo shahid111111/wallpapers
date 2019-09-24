@@ -1,0 +1,248 @@
+{
+  "Collections":[
+	{
+		"name": "Paper layers",
+		"author": "Photo by Andrej Lisakov on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Andrej%20Li%C5%A1akov%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/paper%20layers.png",
+		
+		"downloadable": true,
+		"size": 2470000,
+		"dimensions": "3733 x 5600 px"
+		
+	},
+	{
+		"name": "Old white paper",
+		"author": "Photo by Annie Spratt on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Annie%20Spratt%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/old%20white%20paper.png",
+		
+		"downloadable": true,
+                "size": 4e+6,
+		"dimensions": "4332 x 5868 px"
+		
+	}
+],
+"Wallpapers":[
+	{
+		"name": "Paper layers",
+		"author": "Photo by Andrej Lisakov on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Andrej%20Li%C5%A1akov%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/paper%20layers.png",
+		
+		"downloadable": true,
+		"size": 2470000,
+		"dimensions": "3733 x 5600 px"
+		
+	},
+	{
+		"name": "Old white paper",
+		"author": "Photo by Annie Spratt on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Annie%20Spratt%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/old%20white%20paper.png",
+		
+		"downloadable": true,
+                "size": 4e+6,
+		"dimensions": "4332 x 5868 px"
+		
+	},
+	{
+		"name": "flowers",
+		"author": "Photo by Darren Nunis on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Darren%20Nunis%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/flowers.png",
+		
+		"downloadable": true,
+                "size": 4960000,
+		"dimensions": "7952 x 5310 px"
+		
+	},
+	{
+		"name": "colourfull",
+		"author": "Photo by Hamed Daram on Unsplash",
+		"url": "https://github.com/shahid111111/wallpapers/blob/master/Photo%20by%20Hamed%20Daram%20on%20Unsplash.jpg?raw=true",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/colourfull.png",
+		
+		"downloadable": true,
+                "size": 6060000,
+		"dimensions": "4920 x 3281 px"
+		
+	},
+	{
+		"name": "cardbord",
+		"author": "Photo by Ivan Gromov on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Ivan%20Gromov%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/cardbord.png",
+		
+		"downloadable": true,
+                "size": 1890000,
+		"dimensions": "3000 x 2000 px"
+		
+	},
+	{
+		"name": "paper and pencil",
+		"author": "Photo by Kelly Sikkema on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Kelly%20Sikkema%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/paper%20and%20pencil.png",
+		
+		"downloadable": true,
+                "size": 1010000,
+		"dimensions": "3000 x 2000 px"
+		
+	},
+	{
+		"name": "blue and pink",
+		"author": "Photo by Moose Photos from Pexels",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Moose%20Photos%20from%20Pexels.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/blue%20and%20pink.png",
+		
+		"downloadable": true,
+                "size": 1150000,
+		"dimensions": "6016 x 4016 px"
+		
+	},
+	{
+		"name": "book paper",
+		"author": "Photo by STIL on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20STIL%20on%20Unsplash1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/book%20paper.png",
+		
+		"downloadable": true,
+                "size": 421000,
+		"dimensions": "1968 x 2952 px"
+		
+	},
+	{
+		"name": "thick paper",
+		"author": "Photo by rawpixel.com from Pexels(croped)",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20rawpixel.com%20from%20Pexels(croped).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/thick%20paper.png",
+		
+		"downloadable": true,
+                "size": 1810000,
+		"dimensions": "2616 x 4057 px"
+		
+	},
+	{
+		"name": "old brown paper",
+		"author": "abstract-ancient-antique-235985 from Pexels",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/abstract-ancient-antique-235985%20from%20Pexels.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/old%20brown%20paper.png",
+		
+		"downloadable": true,
+                "size": 1260000,
+		"dimensions": "3000 x 2005 px"
+		
+	},
+	{
+		"name": "multiple old papers",
+		"author": "Photo by rawpixel on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20rawpixel%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/multiple%20old%20papers.png",
+		
+		"downloadable": true,
+                "size": 1840000,
+		"dimensions": "4000 x 2669 px"
+		
+	},
+        {
+		"name": "blue mountains",
+		"author": "Photo by Paul Earle on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Paul%20Earle%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/blue%20mountains.png",
+		
+		"downloadable": true,
+                "size": 312000,
+		"dimensions": "3000 x 1987 px"
+		
+	},
+        {
+		"name": "desert",
+		"author": "Photo by Keith Hardy on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Keith%20Hardy%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/desert.png",
+		
+		"downloadable": true,
+                "size": 1290000,
+		"dimensions": "3872 x 2592 px"
+		
+	},
+        {
+		"name": "fire",
+		"author": "Photo by Timothy Meinberg on Unsplash",
+		"url": "https://github.com/shahid111111/wallpapers/blob/master/Photo%20by%20Timothy%20Meinberg%20on%20Unsplash.jpg?raw=true",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/fire.png",
+		
+		"downloadable": true,
+                "size": 5180000,
+		"dimensions": "4000 x 6000 px"
+		
+	},
+        {
+		"name": "flowers2",
+		"author": "Photo by Alex Blajan on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Alex%20Bl%C4%83jan%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/flowers2.png",
+		
+		"downloadable": true,
+                "size": 1770000,
+		"dimensions": "4000 x 6000 px"
+		
+	},
+        {
+		"name": "fog",
+		"author": "Photo by eberhard grossgasteiger from Pexels",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20eberhard%20grossgasteiger%20from%20Pexels.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/fog.png",
+		
+		"downloadable": true,
+                "size": 3870000,
+		"dimensions": "5472 x 3648 px"
+		
+	},
+        {
+		"name": "highway",
+		"author": "Photo by Nacho Rochon on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Nacho%20Rochon%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/highway.png",
+		
+		"downloadable": true,
+                "size": 3.3e+6,
+		"dimensions": "4187 x 2791 px"
+		
+	},
+        {
+		"name": "highway2",
+		"author": "Photo by Ivana Cajina on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Ivana%20Cajina%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/highway2.png",
+		
+		"downloadable": true,
+                "size": 2770000,
+		"dimensions": "3605 x 5398 px"
+		
+	},
+        {
+		"name": "mountains",
+		"author": "Photo by Samuel Ferrara on Unsplash",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/Photo%20by%20Samuel%20Ferrara%20on%20Unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/mountains.png",
+		
+		"downloadable": true,
+                "size": 603000,
+		"dimensions": "2571 x 3840 px"
+		
+	},
+        {
+		"name": "mountains2",
+		"author": "john-towner-154060-unsplash",
+		"url": "https://github.com/shahid111111/wallpapers/blob/master/john-towner-154060-unsplash.jpg?raw=true",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpapers/master/mountains2.png",
+		
+		"downloadable": true,
+                "size": 9580000,
+		"dimensions": "7952 x 5304 px"
+		
+	}
+       ]
+      }
